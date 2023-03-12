@@ -1,0 +1,8 @@
+total pixels = 47507402
+image width orig = 1920
+image height orig = 1080
+pixel block size = 10
+make width and height = 192 , 108
+one orignal image pixels = ,20736
+total full images = 2291
+last pixels = 1226
